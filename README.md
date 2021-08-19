@@ -1,4 +1,4 @@
-# juicer
+# Flashlite-Juicer
 PBS version of https://github.com/aidenlab/juicer for Flashlite HPC.
 
 If you find this useful, please acknowledge us, e.g:
@@ -128,5 +128,12 @@ Job ID                    Name             User            Time Use S Queue
 2294778.pbs                make4Cbedgraph   mzhibo                 0 R batch          
 2294784.pbs                ...dgraph1111111 mzhibo                 0 Q batch          
 $
+  
+# Cite us to support us!
+ 
+The Flashlite-Juicer pipeline can be cited as DOI: https://doi.org/10.48546/workflowhub.workflow.150.1
 
-Zhibo
+If you use our pipelines, please cite us:
+
+Sydney Informatics Hub, Core Research Facilities, University of Sydney, 2021, The Sydney Informatics Hub Bioinformatics Repository, <date accessed>, https://github.com/Sydney-Informatics-Hub/Bioinformatics
+
